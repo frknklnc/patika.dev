@@ -1,0 +1,1 @@
+# patika_python_basics_proje
